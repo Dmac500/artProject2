@@ -1,13 +1,28 @@
 body{
   color:saddlebrown;
   background-color :seagreen;
+   text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  color:skyblue;
+  text-align: right;
+}
+h3{
+  color:red;
+  text-align: left;
+}
+img{
   text-align: center;
 }
 
-
 a{
- color:blue
-
+  text-align: center;
+ color:blue;
+ background-color: snow;
 }
 a:hover
 {
